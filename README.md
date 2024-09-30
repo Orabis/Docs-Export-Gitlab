@@ -46,5 +46,4 @@ L'application comporte 3 interfaces :
 
 ## Informations Complémentaires
 
-- Contact unistra : lmerkel@unistra.fr
 - Contact global : cdf.leo.merkel@gmail.com
